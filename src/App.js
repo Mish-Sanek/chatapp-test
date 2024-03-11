@@ -1,5 +1,4 @@
 import { useEffect } from 'react';
-import './App.css';
 import TodoForm from './components/TodoForm';
 import TodoListWrapper from './components/TodoListWrapper';
 import { useDispatch } from 'react-redux';
